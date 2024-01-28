@@ -1,0 +1,126 @@
+2024-01-28 18:45:40 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f84f6d92710; archive(resolved)="<IDEArchive: 0x60000f7e6160>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f84f6d92710; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7f84f5ca73b0; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f84f6cfe010; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f84f6d58090; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f84f6c92b20; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f84f5cfbe40; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f84f6d570f0; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f84f6afe400; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85064e1a60; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000dbf440; teamID='NV48B2564F', teamName='minisha murugan', teamType='Individual', username='minisha.mit@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f85c68a1550; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="(null)">
+	<IDEDistributionContext: 0x7f84f6bef770; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="(null)">
+	<IDEDistributionContext: 0x7f84f6beb260; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="(null)">
+	<IDEDistributionContext: 0x7f8575a0cc60; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000510f8a90>", team="(null)">
+	<IDEDistributionContext: 0x7f8575c7bcb0; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x7f8575c71670; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x7f84f6cf7280; archive = "<IDEArchive: 0x60000f7e6160>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7f84f6d92710>
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionCopyItemStep
+2024-01-28 18:45:40 +0000  Running /usr/bin/ditto '-V' '/Users/minishamurugan/Library/Developer/Xcode/Archives/2024-01-28/flipacoiniphone 28-1-24, 7.35 PM.xcarchive/Products/Applications/flipacoin.app' '/var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/Root/Payload/flipacoin.app'
+2024-01-28 18:45:40 +0000  >>> Copying /Users/minishamurugan/Library/Developer/Xcode/Archives/2024-01-28/flipacoiniphone 28-1-24, 7.35 PM.xcarchive/Products/Applications/flipacoin.app 
+2024-01-28 18:45:40 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-01-28 18:45:40 +0000  2775 bytes for ./_CodeSignature/CodeResources
+2024-01-28 18:45:40 +0000  copying file ./flipacoin ... 
+2024-01-28 18:45:40 +0000  119968 bytes for ./flipacoin
+2024-01-28 18:45:40 +0000  copying file ./AppIcon60x60@2x.png ... 
+2024-01-28 18:45:40 +0000  35366 bytes for ./AppIcon60x60@2x.png
+2024-01-28 18:45:40 +0000  copying file ./Assets.car ... 
+2024-01-28 18:45:40 +0000  18469407 bytes for ./Assets.car
+2024-01-28 18:45:40 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2024-01-28 18:45:40 +0000  54256 bytes for ./AppIcon76x76@2x~ipad.png
+2024-01-28 18:45:40 +0000  copying file ./embedded.mobileprovision ... 
+2024-01-28 18:45:40 +0000  12361 bytes for ./embedded.mobileprovision
+2024-01-28 18:45:40 +0000  copying file ./Info.plist ... 
+2024-01-28 18:45:40 +0000  1374 bytes for ./Info.plist
+2024-01-28 18:45:40 +0000  copying file ./PkgInfo ... 
+2024-01-28 18:45:40 +0000  8 bytes for ./PkgInfo
+2024-01-28 18:45:40 +0000  /usr/bin/ditto exited with 0
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-01-28 18:45:40 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-01-28 18:45:40 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2024-01-28 18:45:40 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2024-01-28 18:45:40 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionSymbolsStep
+2024-01-28 18:45:40 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionAppThinningStep
+2024-01-28 18:45:40 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionArchThinningStep
+2024-01-28 18:45:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/Root/Payload/flipacoin.app/flipacoin' '-verify_arch' 'arm64e'
+2024-01-28 18:45:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-01-28 18:45:40 +0000  Skipping architecture thinning for item "flipacoin" because arch "arm64e" wasn't found
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionODRStep
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-01-28 18:45:40 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-01-28 18:45:40 +0000  Processing step: IDEDistributionCodesignStep
+2024-01-28 18:45:40 +0000  Entitlements for <IDEDistributionItem: 0x60000f6ea7c0; bundleID='com.minisha.flipacoin', path='<DVTFilePath:0x60000b970a80:'/Users/minishamurugan/Library/Developer/Xcode/Archives/2024-01-28/flipacoiniphone 28-1-24, 7.35 PM.xcarchive/Products/Applications/flipacoin.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001320d220; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000280c540; name='Apple Development: minisha murugan (GZGTTB4Y44)', hash='39497837687500F1E7A69446205AAFE63E4FD1E3', serialNumber='58409850CD5ADC42FD00E77735AC702', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-01-28 15:00:58 +0000''>', entitlements='{
+    "application-identifier" = "NV48B2564F.com.minisha.flipacoin";
+    "com.apple.developer.team-identifier" = NV48B2564F;
+    "get-task-allow" = 1;
+}', teamID='NV48B2564F', identifier='com.minisha.flipacoin', executablePath='<DVTFilePath:0x60000baedff0:'/Users/minishamurugan/Library/Developer/Xcode/Archives/2024-01-28/flipacoiniphone 28-1-24, 7.35 PM.xcarchive/Products/Applications/flipacoin.app/flipacoin'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "NV48B2564F.com.minisha.flipacoin";
+    "com.apple.developer.team-identifier" = NV48B2564F;
+    "get-task-allow" = 0;
+}
+2024-01-28 18:45:40 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-01-28 18:45:40 +0000  Entitlements for <IDEDistributionItem: 0x60000f6ea7c0; bundleID='com.minisha.flipacoin', path='<DVTFilePath:0x60000b970a80:'/Users/minishamurugan/Library/Developer/Xcode/Archives/2024-01-28/flipacoiniphone 28-1-24, 7.35 PM.xcarchive/Products/Applications/flipacoin.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001320d220; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000280cf00; name='Apple Development: minisha murugan (GZGTTB4Y44)', hash='39497837687500F1E7A69446205AAFE63E4FD1E3', serialNumber='58409850CD5ADC42FD00E77735AC702', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-01-28 15:00:58 +0000''>', entitlements='{
+    "application-identifier" = "NV48B2564F.com.minisha.flipacoin";
+    "com.apple.developer.team-identifier" = NV48B2564F;
+    "get-task-allow" = 1;
+}', teamID='NV48B2564F', identifier='com.minisha.flipacoin', executablePath='<DVTFilePath:0x60000baedff0:'/Users/minishamurugan/Library/Developer/Xcode/Archives/2024-01-28/flipacoiniphone 28-1-24, 7.35 PM.xcarchive/Products/Applications/flipacoin.app/flipacoin'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "NV48B2564F.com.minisha.flipacoin";
+    "com.apple.developer.team-identifier" = NV48B2564F;
+    "get-task-allow" = 0;
+}
+2024-01-28 18:45:40 +0000  Writing entitlements for <IDEDistributionItem: 0x60000f6ea7c0; bundleID='com.minisha.flipacoin', path='<DVTFilePath:0x60000b970a80:'/Users/minishamurugan/Library/Developer/Xcode/Archives/2024-01-28/flipacoiniphone 28-1-24, 7.35 PM.xcarchive/Products/Applications/flipacoin.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001320d220; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000280c900; name='Apple Development: minisha murugan (GZGTTB4Y44)', hash='39497837687500F1E7A69446205AAFE63E4FD1E3', serialNumber='58409850CD5ADC42FD00E77735AC702', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-01-28 15:00:58 +0000''>', entitlements='{
+    "application-identifier" = "NV48B2564F.com.minisha.flipacoin";
+    "com.apple.developer.team-identifier" = NV48B2564F;
+    "get-task-allow" = 1;
+}', teamID='NV48B2564F', identifier='com.minisha.flipacoin', executablePath='<DVTFilePath:0x60000baedff0:'/Users/minishamurugan/Library/Developer/Xcode/Archives/2024-01-28/flipacoiniphone 28-1-24, 7.35 PM.xcarchive/Products/Applications/flipacoin.app/flipacoin'>', hardenedRuntime='0'>'> to: /var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/entitlements~~~KAmcEG
+2024-01-28 18:45:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '0C03EF79FEF7C3EBE465DCE18D6AAA71C6226463' '--entitlements' '/var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/entitlements~~~KAmcEG' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/Root/Payload/flipacoin.app'
+2024-01-28 18:45:40 +0000  /var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/Root/Payload/flipacoin.app: replacing existing signature
+2024-01-28 18:45:43 +0000  /var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/Root/Payload/flipacoin.app: signed app bundle with Mach-O thin (arm64) [com.minisha.flipacoin]
+2024-01-28 18:45:43 +0000  /usr/bin/codesign exited with 0
+2024-01-28 18:45:43 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-01-28 18:45:43 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-01-28 18:45:43 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-01-28 18:45:43 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/Root' '/var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/Packages/flipacoin.ipa'
+2024-01-28 18:45:43 +0000  >>> Copying /var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/Root 
+2024-01-28 18:45:43 +0000  copying file ./Payload/flipacoin.app/_CodeSignature/CodeResources ... 
+2024-01-28 18:45:43 +0000  2775 bytes for ./Payload/flipacoin.app/_CodeSignature/CodeResources
+2024-01-28 18:45:43 +0000  copying file ./Payload/flipacoin.app/flipacoin ... 
+2024-01-28 18:45:43 +0000  119968 bytes for ./Payload/flipacoin.app/flipacoin
+2024-01-28 18:45:43 +0000  copying file ./Payload/flipacoin.app/AppIcon60x60@2x.png ... 
+2024-01-28 18:45:43 +0000  35366 bytes for ./Payload/flipacoin.app/AppIcon60x60@2x.png
+2024-01-28 18:45:43 +0000  copying file ./Payload/flipacoin.app/Assets.car ... 
+2024-01-28 18:45:44 +0000  18469407 bytes for ./Payload/flipacoin.app/Assets.car
+2024-01-28 18:45:44 +0000  copying file ./Payload/flipacoin.app/AppIcon76x76@2x~ipad.png ... 
+2024-01-28 18:45:44 +0000  54256 bytes for ./Payload/flipacoin.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/flipacoin.app/embedded.mobileprovision ... 
+2024-01-28 18:45:44 +0000  14449 bytes for ./Payload/flipacoin.app/embedded.mobileprovision
+copying file ./Payload/flipacoin.app/Info.plist ... 
+2024-01-28 18:45:44 +0000  1374 bytes for ./Payload/flipacoin.app/Info.plist
+copying file ./Payload/flipacoin.app/PkgInfo ... 
+8 bytes for ./Payload/flipacoin.app/PkgInfo
+2024-01-28 18:45:44 +0000  /usr/bin/ditto exited with 0
+2024-01-28 18:45:44 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-01-28 18:45:44 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-01-28 18:45:44 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-01-28 18:45:44 +0000  IDEDistributionItem init <DVTFilePath:0x60000bae9810:'/var/folders/ll/5bpxv2vd3xx02vk0qsyp0d040000gn/T/XcodeDistPipeline.~~~Q0FhrI/Root/Payload/flipacoin.app'>
+2024-01-28 18:45:44 +0000  Processing step: IDEDistributionCreateManifestStep

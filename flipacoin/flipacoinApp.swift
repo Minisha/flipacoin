@@ -1,9 +1,3 @@
-//
-//  flipacoinApp.swift
-//  flipacoin
-//
-//  Created by minisha murugan on 28/1/24.
-//
 
 import SwiftUI
 
@@ -15,3 +9,4 @@ struct flipacoinApp: App {
         }
     }
 }
+

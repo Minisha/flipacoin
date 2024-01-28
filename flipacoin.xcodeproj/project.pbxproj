@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		0D9DADE52B66652900F12592 /* flipacoinApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9DADE42B66652900F12592 /* flipacoinApp.swift */; };
-		0D9DADE72B66652900F12592 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9DADE62B66652900F12592 /* ContentView.swift */; };
 		0D9DADE92B66654000F12592 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D9DADE82B66654000F12592 /* Assets.xcassets */; };
 		0D9DADEC2B66654000F12592 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D9DADEB2B66654000F12592 /* Preview Assets.xcassets */; };
-		0D9DADF72B66654000F12592 /* flipacoinTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9DADF62B66654000F12592 /* flipacoinTests.swift */; };
-		0D9DAE022B66654000F12592 /* flipacoinUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9DAE012B66654000F12592 /* flipacoinUITests.swift */; };
+		0D9DAE202B666DC300F12592 /* CoinFlipView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9DAE1F2B666DC300F12592 /* CoinFlipView.swift */; };
+		0D9DAE332B66702900F12592 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9DAE322B66702900F12592 /* ContentView.swift */; };
+		0D9DAE382B66912300F12592 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9DAE372B66912300F12592 /* Color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,16 +35,14 @@
 /* Begin PBXFileReference section */
 		0D9DADE12B66652900F12592 /* flipacoin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flipacoin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D9DADE42B66652900F12592 /* flipacoinApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flipacoinApp.swift; sourceTree = "<group>"; };
-		0D9DADE62B66652900F12592 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0D9DADE82B66654000F12592 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D9DADEB2B66654000F12592 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0D9DADED2B66654000F12592 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D9DADF22B66654000F12592 /* flipacoinTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flipacoinTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		0D9DADF62B66654000F12592 /* flipacoinTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flipacoinTests.swift; sourceTree = "<group>"; };
-		0D9DADF82B66654000F12592 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D9DADFD2B66654000F12592 /* flipacoinUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flipacoinUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		0D9DAE012B66654000F12592 /* flipacoinUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flipacoinUITests.swift; sourceTree = "<group>"; };
-		0D9DAE032B66654000F12592 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D9DAE1F2B666DC300F12592 /* CoinFlipView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinFlipView.swift; sourceTree = "<group>"; };
+		0D9DAE322B66702900F12592 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0D9DAE372B66912300F12592 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				0D9DADE32B66652900F12592 /* flipacoin */,
-				0D9DADF52B66654000F12592 /* flipacoinTests */,
-				0D9DAE002B66654000F12592 /* flipacoinUITests */,
 				0D9DADE22B66652900F12592 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -96,10 +92,12 @@
 			isa = PBXGroup;
 			children = (
 				0D9DADE42B66652900F12592 /* flipacoinApp.swift */,
-				0D9DADE62B66652900F12592 /* ContentView.swift */,
 				0D9DADE82B66654000F12592 /* Assets.xcassets */,
 				0D9DADED2B66654000F12592 /* Info.plist */,
 				0D9DADEA2B66654000F12592 /* Preview Content */,
+				0D9DAE1F2B666DC300F12592 /* CoinFlipView.swift */,
+				0D9DAE322B66702900F12592 /* ContentView.swift */,
+				0D9DAE372B66912300F12592 /* Color.swift */,
 			);
 			path = flipacoin;
 			sourceTree = "<group>";
@@ -110,24 +108,6 @@
 				0D9DADEB2B66654000F12592 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		0D9DADF52B66654000F12592 /* flipacoinTests */ = {
-			isa = PBXGroup;
-			children = (
-				0D9DADF62B66654000F12592 /* flipacoinTests.swift */,
-				0D9DADF82B66654000F12592 /* Info.plist */,
-			);
-			path = flipacoinTests;
-			sourceTree = "<group>";
-		};
-		0D9DAE002B66654000F12592 /* flipacoinUITests */ = {
-			isa = PBXGroup;
-			children = (
-				0D9DAE012B66654000F12592 /* flipacoinUITests.swift */,
-				0D9DAE032B66654000F12592 /* Info.plist */,
-			);
-			path = flipacoinUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,6 +180,7 @@
 					};
 					0D9DADF12B66654000F12592 = {
 						CreatedOnToolsVersion = 12.4;
+						LastSwiftMigration = 1240;
 						TestTargetID = 0D9DADE02B66652900F12592;
 					};
 					0D9DADFC2B66654000F12592 = {
@@ -259,8 +240,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D9DADE72B66652900F12592 /* ContentView.swift in Sources */,
+				0D9DAE202B666DC300F12592 /* CoinFlipView.swift in Sources */,
+				0D9DAE382B66912300F12592 /* Color.swift in Sources */,
 				0D9DADE52B66652900F12592 /* flipacoinApp.swift in Sources */,
+				0D9DAE332B66702900F12592 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +251,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D9DADF72B66654000F12592 /* flipacoinTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,7 +258,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D9DAE022B66654000F12592 /* flipacoinUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -394,6 +375,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -419,6 +401,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"flipacoin/Preview Content\"";
+				DEVELOPMENT_TEAM = NV48B2564F;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = flipacoin/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -440,6 +423,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"flipacoin/Preview Content\"";
+				DEVELOPMENT_TEAM = NV48B2564F;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = flipacoin/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -459,6 +443,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = flipacoinTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -469,6 +454,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.minisha.flipacoinTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flipacoin.app/flipacoin";
@@ -480,6 +466,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = flipacoinTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;

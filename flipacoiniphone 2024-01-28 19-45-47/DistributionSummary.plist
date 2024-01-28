@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flipacoin.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0C03EF79FEF7C3EBE465DCE18D6AAA71C6226463</string>
+				<key>dateExpires</key>
+				<string>27/1/25</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NV48B2564F.com.minisha.flipacoin</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NV48B2564F</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>flipacoin.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>921295a2-94e8-4348-ba3b-563b49e07d24</string>
+				<key>dateExpires</key>
+				<string>27/1/25</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.minisha.flipacoin</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NV48B2564F</string>
+				<key>name</key>
+				<string>minisha murugan</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
