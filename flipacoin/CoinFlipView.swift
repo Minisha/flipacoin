@@ -39,10 +39,8 @@ struct CoinFlipView: View {
 
         
     var body: some View {
-        ZStack { // Use a ZStack to overlay the black background
-//            LinearGradient(gradient: Gradient(colors: [Color(hex:"#EBEBE8"), Color(hex:"#31352E")]), startPoint: .topLeading, endPoint: .bottomTrailing)
-//                            .edgesIgnoringSafeArea(.all)
-            Image("backgroundImage") // Replace "backgroundImage" with the name of your image asset
+        ZStack {
+            Image("backgroundImage") 
                             .resizable()
                             .scaledToFill()
                             .edgesIgnoringSafeArea(.all) // Ensure the image covers the entire view
